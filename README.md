@@ -1,2 +1,2 @@
-# ideas
-Repository to catalog all my future project ideas
+* Doom style game, no engine, Clang
+* 
