@@ -6,4 +6,5 @@ Here are just a list of some ideas that I want to work on in the future.
 * Spotify join friends listening session
 * GPT from the ground up
 * Brimstone Lineup bruteforcer
-* Chrome Extension to Hide youtube videos 
+* Chrome Extension to Hide youtube videos
+* DLL that tampers with all call instructions in a program and re-routes the calls to a sub-routine
