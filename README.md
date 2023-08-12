@@ -14,4 +14,4 @@ Here are just a list of some ideas that I want to work on in the future.
 * Electronic chessboard with arduino
 * Analyze twitch dbd videos and spit out player statistics
 * OCR nutrition information and feed it into GPT model to find key product information (calories, protein, sugars, ect)
-* Dreambooth version of GPT that is designed for training on a codebase / repo.
+* Dreambooth version of GPT that is designed for fine-tuning on a codebase / repo.
