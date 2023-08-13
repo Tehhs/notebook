@@ -15,3 +15,6 @@ Here are just a list of some ideas that I want to work on in the future.
 * Analyze twitch dbd videos and spit out player statistics
 * OCR nutrition information and feed it into GPT model to find key product information (calories, protein, sugars, ect)
 * Dreambooth version of GPT that is designed for fine-tuning on a codebase / repo.
+* Kernal level cheat driver 
+* Sleep analysis android app
+* GPT-powered 3d room generator 
