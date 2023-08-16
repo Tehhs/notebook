@@ -17,4 +17,5 @@ Here are just a list of some ideas that I want to work on in the future.
 * Dreambooth version of GPT that is designed for fine-tuning on a codebase / repo.
 * Kernal level cheat driver 
 * Sleep analysis android app
-* (In-Progress) GPT-powered 3d room generator 
+* (In-Progress) GPT-powered 3d room generator
+* Tool to easily train a gpt model on a github repo / codebase 
