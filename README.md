@@ -19,3 +19,4 @@ Here are just a list of some ideas that I want to work on in the future.
 * Sleep analysis android app
 * (In-Progress) GPT-powered 3d room generator
 * Tool to easily train a gpt model on a github repo / codebase; maybe tool to auto-document functions once GPT understands the codebase
+* Chrome extension when you highllight a word, it highlights all matches on the same page (basically CTRL+C, CTRL+F, CTRL+V shortcut)
