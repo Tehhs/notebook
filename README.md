@@ -23,3 +23,4 @@ Here are just a list of some ideas that I want to work on in the future.
 * With kernal access, there must be some way to hook to some internal windows function to constantly monitor EIP/RIP without attaching to a process via debugging (as that doesnt work very well). Do this to somehow work out which functions are being called in a process at any particular time. (Edit: Probably not possible)
 * Single CPP file with deploys any method I know on preventing hacks/cheats from attaching to the process.
 * explore wave function collapse
+* discord bot to handle timezone conversions because its getting annoying 
