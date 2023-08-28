@@ -24,4 +24,6 @@ Here are just a list of some ideas that I want to work on in the future.
 * Single CPP file with deploys any method I know on preventing hacks/cheats from attaching to the process.
 * explore wave function collapse
 * discord bot to handle timezone conversions because its getting annoying
-* integrate OpenAI's Chatgpt into your discord bot so it can help users work out how to use the bot 
+* integrate OpenAI's Chatgpt into your discord bot so it can help users work out how to use the bot
+* check db/sound level of yt video before playing it so it doesn't burst my ear drums
+* dbd video analyze 
