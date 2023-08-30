@@ -26,4 +26,5 @@ Here are just a list of some ideas that I want to work on in the future.
 * discord bot to handle timezone conversions because its getting annoying
 * integrate OpenAI's Chatgpt into your discord bot so it can help users work out how to use the bot
 * check db/sound level of yt video before playing it so it doesn't burst my ear drums
-* dbd video analyze 
+* dbd video analyze
+* webgl shaders, examples at https://webgl-shaders.com/
