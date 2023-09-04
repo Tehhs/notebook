@@ -28,4 +28,5 @@ Here are just a list of some ideas that I want to work on in the future.
 * check db/sound level of yt video before playing it so it doesn't burst my ear drums
 * dbd video analyze
 * webgl shaders, examples at https://webgl-shaders.com/
-* emulate a calculator processor or something 
+* emulate a calculator processor or something
+* Laser gun to kill flys?
