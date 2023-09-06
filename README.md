@@ -30,3 +30,4 @@ Here are just a list of some ideas that I want to work on in the future.
 * webgl shaders, examples at https://webgl-shaders.com/
 * emulate a calculator processor or something
 * Laser gun to kill flys?
+* Code to auto target common functions in unity + hijack
