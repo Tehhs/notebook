@@ -32,3 +32,4 @@ Here are just a list of some ideas that I want to work on in the future.
 * Laser gun to kill flys?
 * Code to auto target common functions in unity + hijack
 * Bezier curves https://www.jasondavies.com/animated-bezier/
+* drawing pad to aiming device 
