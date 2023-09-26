@@ -29,6 +29,5 @@ Here are just a list of some ideas that I want to work on in the future.
 * dbd video analyze
 * webgl shaders, examples at https://webgl-shaders.com/
 * emulate a calculator processor or something
-* Code to auto target common functions in unity + hijack
 * Bezier curves https://www.jasondavies.com/animated-bezier/
 * drawing pad to aiming device 
