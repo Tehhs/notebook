@@ -30,4 +30,5 @@ Here are just a list of some ideas that I want to work on in the future.
 * emulate a calculator processor or something
 * Bezier curves https://www.jasondavies.com/animated-bezier/
 * drawing pad to aiming device
-* http as many requests as possible 
+* http as many requests as possible
+* Youtube-music sync to spotify sessions 
