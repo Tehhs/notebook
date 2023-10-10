@@ -32,3 +32,4 @@ Here are just a list of some ideas that I want to work on in the future.
 * http as many requests as possible
 * Youtube-music sync to spotify sessions
 * revamp website
+* Process tracker / game tracker / activity tracker 
