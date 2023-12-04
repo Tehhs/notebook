@@ -37,3 +37,9 @@ Here are just a list of some ideas that I want to work on in the future.
 * OpenTK (OpenGL) C# Minecraft
 * Sheer any animal in minecraft
 * General task/timer lib. Every("Friday").Fire(func); Every("Friday").At("3PM").Fire(func); Every("Month").Fire(func); https://gist.github.com/Tehhs/31b35457ab20993e97a6db5163a90c75
+* Easy english functions in code powered by GPT
+function findWords(inputString) : int[] {
+  all words in inputString that contain "the" and output the amount
+}
+
+  
