@@ -41,5 +41,5 @@ Here are just a list of some ideas that I want to work on in the future.
 function findWords(inputString) : int[] {
   all words in inputString that contain "the" and output the amount
 }
-
+* Custom WIndows 11 search because HOLY * windows 11 search is BAD and annoying 
   
