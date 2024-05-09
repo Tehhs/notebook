@@ -43,4 +43,4 @@ function findWords(inputString) : int[] {
 }
 * Custom WIndows 11 search because HOLY * windows 11 search is BAD and annoying
 * Chrome extension that will just look for any timezone strings in the body and just convert them to local so you dont see shit like "14:00 GMT" some some shit like that 
-* Probably done a million times by a million other people but - do a 3D Atom/Electron/Particle simulator that simulates interactions between different elements/atoms/ions/anions
+* Probably done a million times by a million other people but - do a 3D Atom/Electron/Particle simulator that simulates interactions between different elements/atoms/ions/anions. Maybe make the simulator VERY VERY quick and efficient so you can incorperate it into a game at some point.
