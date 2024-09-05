@@ -15,6 +15,7 @@ Here are just a list of some ideas that I want to work on in the future.
 * Your own encryption, even if it's dogshi*
 * I really want to explore remote execution via buffer overlows. For fun, maybe explore potential exploits in torrent software.
   * https://github.com/gh0x0st/Buffer_Overflow
+  * https://steflan-security.com/tryhackme-buffer-overflow-prep/
 
 # Ideas I dont care about anymore 
 * ~~Electronic chessboard with arduino~~
