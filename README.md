@@ -4,24 +4,23 @@ Here are just a list of some ideas that I want to work on in the future.
 
 # Ideas I still care about 
 
-* DLL that tampers with all call instructions in a program and re-routes the calls to a sub-routine
-* JS inside CSS file
-* My own frontend JS framework
-* CSS Sucks - make a new styling language and use javascript to do everything inside a canvas, who cares about performance.
-* Electronic chessboard with arduino
-* OCR nutrition information and feed it into GPT model to find key product information (calories, protein, sugars, ect)
+* DLL that tampers with all call instructions in a program and re-routes the calls to a sub-routine. Had this working a while ago with bugs.
 * Kernal level cheat driver 
-* Chrome extension when you highllight a word, it highlights all matches on the same page (basically CTRL+C, CTRL+F, CTRL+V shortcut)
 * explore wave function collapse
 * webgl shaders, examples at https://webgl-shaders.com/
 * Bezier curves https://www.jasondavies.com/animated-bezier/
-* revamp website
+* revamp website, include blogging/articles from cdn
 * Hold down on a word to replace it with a simpiler word
-* OpenTK (OpenGL) C# Minecraft
+* OpenTK (OpenGL) C# Minecraft remake + game engine 
 
 
 # Ideas I dont care about anymore 
-
+* ~~Electronic chessboard with arduino~~
+* ~~Chrome extension when you highllight a word, it highlights all matches on the same page (basically CTRL+C, CTRL+F, CTRL+V shortcut)~~
+* ~~OCR nutrition information and feed it into GPT model to find key product information (calories, protein, sugars, ect)~~
+* ~~JS inside CSS file~~
+* ~~My own frontend JS framework~~
+* ~~CSS Sucks - make a new styling language and use javascript to do everything inside a canvas, who cares about performance.~~
 * ~~Doom style game, no engine, Clang or my own programming language once complete.~~
 * ~~Spotify join friends listening session~~
 * ~~GPT from the ground up~~
