@@ -13,6 +13,8 @@ Here are just a list of some ideas that I want to work on in the future.
 * Hold down on a word to replace it with a simpiler word
 * OpenTK (OpenGL) C# Minecraft remake + game engine 
 * Your own encryption, even if it's dogshi*
+* I really want to explore remote execution via buffer overlows. For fun, maybe explore potential exploits in torrent software.
+  * https://github.com/gh0x0st/Buffer_Overflow
 
 # Ideas I dont care about anymore 
 * ~~Electronic chessboard with arduino~~
