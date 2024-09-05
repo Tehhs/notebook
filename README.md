@@ -12,7 +12,7 @@ Here are just a list of some ideas that I want to work on in the future.
 * revamp website, include blogging/articles from cdn
 * Hold down on a word to replace it with a simpiler word
 * OpenTK (OpenGL) C# Minecraft remake + game engine 
-
+* Your own encryption, even if it's dogshi*
 
 # Ideas I dont care about anymore 
 * ~~Electronic chessboard with arduino~~
