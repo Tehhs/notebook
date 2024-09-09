@@ -17,6 +17,7 @@ Here are just a list of some ideas that I want to work on in the future.
   * https://github.com/gh0x0st/Buffer_Overflow
   * https://steflan-security.com/tryhackme-buffer-overflow-prep/
 * Re-write shelby in GO
+* Babel JS=>ASX, ASX=>Brainfuck+. Brainfuck+ to make brainfuck less annoying, do something like 15> to do > 15 times, Can do for + and - too.
 
 # Ideas I dont care about anymore 
 * ~~Electronic chessboard with arduino~~
