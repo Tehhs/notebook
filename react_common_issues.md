@@ -34,3 +34,17 @@ const ParentElement = ({state}) => {
 }
 
 ```
+
+A workaround to this would be changing the innner state based off changes to props
+
+```jsx
+
+const ChildElement = ({state}) => { 
+    const [innerState, setInnerState] = useState(state)
+
+    useEffect(()=>{
+        setInnerState(state)
+    }, [state])
+
+...
+```
