@@ -46,5 +46,12 @@ const ChildElement = ({state}) => {
         setInnerState(state)
     }, [state])
 
-...
+    ...
+}
 ```
+
+But now you have more issues. Every time the parent re-renders, props will change, re-setting any inner state.
+
+While this could work, if you intellegently manage how the inner state changes in response to prop changes, it's still not a great approach. 
+
+## A better solution
