@@ -1,5 +1,8 @@
 # Children tying to manage their own state 
 
+The below code isn't great - You have a child copying parent state, and then trying to manage that copied state. This becomes an issue when the parent want's to change 
+props sent into the child. Those new props will not populate into the child's state.
+
 ```jsx
 
 const ChildElement = ({state}) => { 
