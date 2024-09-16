@@ -20,6 +20,7 @@ Here are just a list of some ideas that I want to work on in the future.
 * Re-write shelby in GO
 * Babel JS=>ASX, ASX=>Brainfuck+. Brainfuck+ to make brainfuck less annoying, do something like 15> to do > 15 times, Can do for + and - too.
 * Some babel black magic so you can make reference to .cs C# classes to do things like type checks against a model
+  * https://crackmes.one/crackme/5ab77f5933c5d40ad448c458
 
 # Ideas I dont care about anymore 
 * ~~Electronic chessboard with arduino~~
