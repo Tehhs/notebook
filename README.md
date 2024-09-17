@@ -26,6 +26,7 @@ Here are just a list of some ideas that I want to work on in the future.
   * https://github.com/gleam-lang/gleam
   * https://gleam.run/ 
   * https://elixir-lang.org/
+* https://www.antlr.org/
 
 # Ideas I dont care about anymore 
 * ~~Electronic chessboard with arduino~~
