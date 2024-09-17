@@ -27,6 +27,7 @@ Here are just a list of some ideas that I want to work on in the future.
   * https://gleam.run/ 
   * https://elixir-lang.org/
 * https://www.antlr.org/
+* https://elixir-lang.org/blog/2020/10/08/real-time-communication-at-scale-with-elixir-at-discord/
 
 # Ideas I dont care about anymore 
 * ~~Electronic chessboard with arduino~~
