@@ -23,9 +23,9 @@ Here are just a list of some ideas that I want to work on in the future.
 * https://crackmes.one/crackme/5ab77f5933c5d40ad448c458
 * redact.local
 * Erlang / BEAM is f***ing amazing.
- * https://github.com/gleam-lang/gleam
- * https://gleam.run/ 
- * https://elixir-lang.org/
+ ** https://github.com/gleam-lang/gleam
+ ** https://gleam.run/ 
+ ** https://elixir-lang.org/
 
 # Ideas I dont care about anymore 
 * ~~Electronic chessboard with arduino~~
