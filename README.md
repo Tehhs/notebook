@@ -17,20 +17,13 @@ Here are just a list of some ideas that I want to work on in the future.
 * I really want to explore remote execution via buffer overlows. For fun, maybe explore potential exploits in torrent software.
   * https://github.com/gh0x0st/Buffer_Overflow
   * https://steflan-security.com/tryhackme-buffer-overflow-prep/
-* Re-write shelby in GO
-* Babel JS=>ASX, ASX=>Brainfuck+. Brainfuck+ to make brainfuck less annoying, do something like 15> to do > 15 times, Can do for + and - too.
-* Some babel black magic so you can make reference to .cs C# classes to do things like type checks against a model
-* https://crackmes.one/crackme/5ab77f5933c5d40ad448c458
 * redact.local
-* Erlang / BEAM is f***ing amazing.
-  * https://github.com/gleam-lang/gleam
-  * https://gleam.run/ 
-  * https://elixir-lang.org/
-* https://www.antlr.org/
-* https://elixir-lang.org/blog/2020/10/08/real-time-communication-at-scale-with-elixir-at-discord/
-* https://craftinginterpreters.com/
+
 
 # Ideas I dont care about anymore 
+* ~~Re-write shelby in GO~~
+* ~~Babel JS=>ASX, ASX=>Brainfuck+. Brainfuck+ to make brainfuck less annoying, do something like 15> to do > 15 times, Can do for + and - too.~~
+* ~~Some babel black magic so you can make reference to .cs C# classes to do things like type checks against a model~~
 * ~~Electronic chessboard with arduino~~
 * ~~Chrome extension when you highllight a word, it highlights all matches on the same page (basically CTRL+C, CTRL+F, CTRL+V shortcut)~~
 * ~~OCR nutrition information and feed it into GPT model to find key product information (calories, protein, sugars, ect)~~
