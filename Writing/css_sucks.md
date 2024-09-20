@@ -1,6 +1,6 @@
 # CSS Sucks
 
-A list of reasons why I think CSS is the most poorly designed peice of s*** 
+A list of reasons why I think CSS is the most poorly designed piece of s*** 
 
 ## Margin Collapsing in CSS
 

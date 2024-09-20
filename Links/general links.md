@@ -1,8 +1,12 @@
-# Resources 
 
-Cool links that I want to save. 
 
-* Erlang / BEAM is f***ing amazing.
+# General Interesting Links 
+
+* webgl shaders, examples at https://webgl-shaders.com/
+* Bezier curves https://www.jasondavies.com/animated-bezier/
+
+
+* Erlang / BEAM is amazing.
   * https://github.com/gleam-lang/gleam
   * https://gleam.run/ 
   * https://elixir-lang.org/
