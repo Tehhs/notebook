@@ -6,3 +6,5 @@ I really want to explore remote execution via buffer overflows. For fun, maybe e
     - [https://steflan-security.com/tryhackme-buffer-overflow-prep/](https://steflan-security.com/tryhackme-buffer-overflow-prep/)
 
 https://www.capstone-engine.org/
+
+https://opensecuritytraining.info/Exploits1.html
