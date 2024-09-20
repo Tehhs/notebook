@@ -24,3 +24,4 @@ Buffer overflows like the one above can be used to execute remote arbitrary code
 * Function pointers and variables 
 
 todo: Show examples of this - in like cheat engine or something
+todo: show visualizations of buffer and the stackframe around it, before and after buffer overflow exploits, potentially animate it, show assembly code too 
