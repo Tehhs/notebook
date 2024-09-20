@@ -2,6 +2,6 @@
 Ideas, Links, and Research goes in this repository. 
 
 * [Ideas](Ideas/ideas.md)
-* [Ideas](Links)
+* [Links](Links)
 * [Research](Research)
 * [Writing](Writing)
