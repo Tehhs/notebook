@@ -8,3 +8,7 @@ I really want to explore remote execution via buffer overflows. For fun, maybe e
 https://www.capstone-engine.org/
 
 https://opensecuritytraining.info/Exploits1.html
+
+# SS7 
+
+https://people.cs.rutgers.edu/~rmartin/teaching/fall04/cs552/readings/ss7.pdf
