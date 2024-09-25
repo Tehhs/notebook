@@ -1,5 +1,29 @@
 * (DONE) ~~Update cors unblocker to recent chrome version~~
 * DLL that tampers with all call instructions in a program and re-routes the calls to a sub-routine. Had this working a while ago with bugs.
+  * There's a couple issues with this. You can take two approaches (1) Scan for calls, replace calls. (2) Scan for function headers, replace with jmp. WIth method number (1) you might think it's easy just look for calls, until you find out that there can be 8 different call instructions (https://c9x.me/x86/html/file_module_x86_id_26.html). This is almost fine - for most of those you can still edit and replace to call near memory injected functions that return back, but then you have call functions like like "call [eax]" which is hard to rewrite.
+  * So then it makes sense to use method 2 - just have a smart way way to scan for methods in the assembly and hook at the beginning. At the beginning of most functions have something like this which takes about 6 bytes 
+
+```asm
+func:
+  push rbp
+  mov rbp, rsp 
+```
+
+Which you can then replace with this, which should take 5 bytes (accorording to chatgpt at leasst for a near call with 3 byte address which should be enough)
+
+```asm
+newFunc:
+  ;; do what you need to here - logging or whatever 
+  ;; remove evidence of stack or function call here so that original function returns into caller 
+  call originalFunc
+  
+
+func:
+  call
+```
+
+Probably should work
+
 * Kernal level cheat driver 
 * explore wave function collapse
 * revamp website, include blogging/articles from cdn
