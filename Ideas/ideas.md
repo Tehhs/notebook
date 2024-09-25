@@ -19,7 +19,7 @@ newFunc:
   
 
 func:
-  call
+  call newFunc
 ```
 
 Probably should work
