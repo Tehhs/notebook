@@ -33,3 +33,4 @@ Probably should work
 * redact.local
 * C compiler that allows procedures to be compiled in a way where procedures and accessed memoery addresses are continiously changing memory locations & minipulating stack and addressing so that the program becomes very difficult to debug - probably would be cool for hiding what you're program/process/function is doing. (right now I'm imaging a circular chain of functions that are constantly re-writing each other, and if new call to new function then that joins the chain... idk probably might be something worth expanding on)
 * Re-write shelby in Zig
+* Redo Resume page - Take inspiration from how this pasge is layed out https://tokio.rs/
