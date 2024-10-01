@@ -34,3 +34,4 @@ Probably should work
 * C compiler that allows procedures to be compiled in a way where procedures and accessed memoery addresses are continiously changing memory locations & minipulating stack and addressing so that the program becomes very difficult to debug - probably would be cool for hiding what you're program/process/function is doing. (right now I'm imaging a circular chain of functions that are constantly re-writing each other, and if new call to new function then that joins the chain... idk probably might be something worth expanding on)
 * Re-write shelby in Zig
 * Redo Resume page - Take inspiration from how this pasge is layed out https://tokio.rs/
+* VS Code plugin/addon to make it so you can just change the color on a filter so you dont have to use the online generator stuffs, btw that online generator stuff is also open source so look at that https://github.com/angel-rs/css-color-filter-generator 
