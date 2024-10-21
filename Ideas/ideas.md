@@ -36,3 +36,4 @@ Probably should work
 * Redo Resume page - Take inspiration from how this pasge is layed out https://tokio.rs/
 * VS Code plugin/addon to make it so you can just change the color on a filter so you dont have to use the online generator stuffs, btw that online generator stuff is also open source so look at that https://github.com/angel-rs/css-color-filter-generator
 * Interesting. For function call tracking / Tracking EIP/RIP. Hardware Performance Monitoring. Intel has LBR (records to registers) or HBR (records to memory). Cool tool: https://github.com/marcusbotacin/BranchMonitoringProject.
+* I'm learning Neural Network stuffs and I want a tool to visualize exactly whats happening in a Neural network. Tool to visualize and make / create NNs 
