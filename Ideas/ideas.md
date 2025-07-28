@@ -37,4 +37,8 @@ Probably should work
 * Interesting. For function call tracking / Tracking EIP/RIP. Hardware Performance Monitoring. Intel has LBR (records to registers) or HBR (records to memory). Cool tool: https://github.com/marcusbotacin/BranchMonitoringProject.
 * I'm learning Neural Network stuffs and I want a tool to visualize exactly whats happening in a Neural network. Tool to visualize and make / create NNs
 * A tool that'll give you a journey thorughout the day, go to cafe 1 spend 30$ then go to another for lunch, library, everything for some duratoin of time
-* App where you can see everyone on a map that is also using the app, and you use it to find people that want to chill/hang/meet up around your location. Maybe you can tap on people on that map and send them a message "Hey want to hang out", our you can put up a status for people that see you on the map "I'm currently looking for poeple to go hiking with next this to thib mountain here". 
+* App where you can see everyone on a map that is also using the app, and you use it to find people that want to chill/hang/meet up around your location. Maybe you can tap on people on that map and send them a message "Hey want to hang out", our you can put up a status for people that see you on the map "I'm currently looking for poeple to go hiking with next this to thib mountain here".
+
+## New
+
+* Alt-tab THAT DOESNT SUCK. Tried many alternatives nothing is good. Need simple search like VS Code's CTRL+P, only tabs to opened tabs unles you do something like start the search with > or #
